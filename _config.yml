@@ -1,0 +1,28 @@
+name: TheLifeOfAron
+favicon: null
+layout_spectrum: 0.2763713866006583
+typography_spectrum: 0.13174296985380352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15217752568423748
+  lightness: 0.7677791707683355
+  saturation: 0.051968760788440704
+  rhythmicContrast: 0.9811049401760101
+purpose: []
