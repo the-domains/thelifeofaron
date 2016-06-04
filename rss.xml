@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheLifeOfAron]]></title>
         <description><![CDATA[TheLifeOfAron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thelifeofaron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 10:46:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 04 Jun 2016 11:00:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thelifeofaron/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3624776d-5952-4cc7-9078-bc2207f4c1e1.jpg">]]></description>
+            <link>https://thegrid.ai/thelifeofaron/011eedb8-70d5-4f8e-bc3d-1b9fcafa4d6a/index.html</link>
+            <guid isPermaLink="false">011eedb8-70d5-4f8e-bc3d-1b9fcafa4d6a</guid>
+            <pubDate>Sat, 04 Jun 2016 11:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1895eff1-7965-4ebc-984e-8da559fbc078.jpg">]]></description>
-            <link>undefinedthe-world-of-a-xy/index.html</link>
+            <link>https://thegrid.ai/thelifeofaron/the-world-of-a-xy/index.html</link>
             <guid isPermaLink="false">a6ce4fb9-8993-412d-8d68-a63361a54196</guid>
             <pubDate>Sat, 04 Jun 2016 10:46:11 GMT</pubDate>
         </item>
